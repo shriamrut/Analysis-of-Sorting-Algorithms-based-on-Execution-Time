@@ -1,0 +1,7 @@
+Algorithm:     100     10000    100000
+BubbleSort:    0.0ms   125.0ms   12390.0ms
+SelectionSort: 0.0ms   63.0ms   2718.0ms
+InsertionSort: 0.0ms   47.0ms   3125.0ms
+MergeSort:     0.0ms   0.0ms   32.0ms
+QuickSort:     0.0ms   0.0ms   15.0ms
+HeapSort:      0.0ms   0.0ms   47.0ms
